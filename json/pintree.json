@@ -53,13 +53,6 @@
           },
           {
             "type": "link",
-            "addDate": 1720745394900,
-            "title": "新建标签页",
-            "icon": "https://logo.clearbit.com/newtab",
-            "url": "edge://newtab/"
-          },
-          {
-            "type": "link",
             "addDate": 1724826579520,
             "title": "设置 - API 密钥 - Cloudinary --- Settings - API Keys - Cloudinary",
             "icon": "https://logo.clearbit.com/console.cloudinary.com",
@@ -71,13 +64,6 @@
             "title": "手把手教你创建自己的 GPTs，打造专属的 AI 聊天机器人｜ExplainThis",
             "icon": "https://logo.clearbit.com/www.explainthis.io",
             "url": "https://www.explainthis.io/zh-hans/ai/create-gpts"
-          },
-          {
-            "type": "link",
-            "addDate": 1727180575855,
-            "title": "空白文档",
-            "icon": "https://logo.clearbit.com/docs.qq.com",
-            "url": "https://docs.qq.com/doc/DS3h1d0ZkTWJGbHFL"
           },
           {
             "type": "link",
